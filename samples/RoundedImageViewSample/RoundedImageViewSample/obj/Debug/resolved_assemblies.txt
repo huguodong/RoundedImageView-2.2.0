@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\RoundedImageViewSample.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\RoundedImageView.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\Square.OkHttp.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\Square.OkIO.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\Square.Picasso.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\System.Core.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\System.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Administrator\Desktop\RoundedImageView-2.2.0\samples\RoundedImageViewSample\RoundedImageViewSample\obj\Debug\assemblies\System.ServiceModel.Internals.dll
